@@ -102,6 +102,7 @@ To get the structure you can use the `tree` command in your terminal or do it ma
 #### Example repositories
 The repositories below show some of the repositories that HackYourFuture students have made to hand in an assignment that are exceptionally good:
 - [Salih TODO app](https://github.com/salih18/MERN-Todo-App)
+- [Claudia's Strolly app](https://github.com/claudiadewindt/Strolly)
 
 ## Technical interview
 When you get a technical assignment you will generally also get a technical interview along with it. This is very similar to the technical interviews you will have in the curriculum with your Education Director. This interview will usually be fully focused on the code that you built, which means you can expect to get the following questions:
